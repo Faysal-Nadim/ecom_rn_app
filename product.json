@@ -1,0 +1,158 @@
+{
+  "price": {
+    "original": 1550,
+    "discount": 1450,
+    "discount_type": "new_user",
+    "discounted": true
+  },
+  "stock": {
+    "qty": 18,
+    "type": "Pcs"
+  },
+  "variations": {
+    "var_name": "Size",
+    "skus": [
+      {
+        "value": "38",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024642",
+        "_id": "62df00f3e0f02744ffb94432"
+      },
+      {
+        "value": "39",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024643",
+        "_id": "62df00f3e0f02744ffb94433"
+      },
+      {
+        "value": "40",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024644",
+        "_id": "62df00f3e0f02744ffb94434"
+      },
+      {
+        "value": "41",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024645",
+        "_id": "62df00f3e0f02744ffb94435"
+      },
+      {
+        "value": "42",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024646",
+        "_id": "62df00f3e0f02744ffb94436"
+      },
+      {
+        "value": "43",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024647",
+        "_id": "62df00f3e0f02744ffb94437"
+      },
+      {
+        "value": "44",
+        "img": null,
+        "stock": 5,
+        "sku": "2021024648",
+        "_id": "62df00f3e0f02744ffb94438"
+      },
+      {
+        "value": "45",
+        "img": null,
+        "stock": 50,
+        "sku": "2021024649",
+        "_id": "62df00f3e0f02744ffb94439"
+      }
+    ]
+  },
+  "weight": {
+    "value": 0.7,
+    "unit": "KG"
+  },
+  "seller_info": {
+    "store_id": null,
+    "store_name": null
+  },
+  "_id": "62df00f3e0f02744ffb94428",
+  "title": "Best Selling High Quality Sneaker Imported From China ",
+  "image": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_02_rz.jpg",
+  "productID": 2021024642,
+  "gallery": [
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_01_rz.jpg",
+      "_id": "62df00f3e0f02744ffb94429"
+    },
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_02_rz.jpg",
+      "_id": "62df00f3e0f02744ffb9442a"
+    },
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_03_rz.jpg",
+      "_id": "62df00f3e0f02744ffb9442b"
+    },
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_04_rz.jpg",
+      "_id": "62df00f3e0f02744ffb9442c"
+    },
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_05_rz.jpg",
+      "_id": "62df00f3e0f02744ffb9442d"
+    },
+    {
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_06_rz.jpg",
+      "_id": "62df00f3e0f02744ffb9442e"
+    }
+  ],
+  "ratings": [
+    {
+      "user": "Faysal Jamil",
+      "rating": 3,
+      "feedBack": "Very smooth and comfortable Very smooth and comfortable ",
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_06_rz.jpg",
+      "date": "11 June, 2022",
+      "_id": "62df00f3e0f02744ffb9442f"
+    },
+    {
+      "user": "Nahid Hasan",
+      "rating": 5,
+      "date": "27 May, 2022",
+      "feedBack": "Very smooth and comfortable",
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_05_rz.jpg",
+      "_id": "62df00f3e0f02744ffb94430"
+    },
+    {
+      "user": "Mahobub Shahoriar",
+      "rating": 5,
+      "date": "12 May, 2022",
+      "feedBack": "Very smooth and comfortable",
+      "img": "https://www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208415330_04_rz.jpg",
+      "_id": "62df00f3e0f02744ffb94431"
+    }
+  ],
+  "specification": [
+    {
+      "key": null,
+      "value": null,
+      "_id": "62df00f3e0f02744ffb9443a"
+    }
+  ],
+  "category": "Sneakers",
+  "description": "This Is A Dummy Product",
+  "currency": "BDT",
+  "order_count": 7,
+  "shipping": [
+    {
+      "_id": "62df00f3e0f02744ffb9443b"
+    }
+  ],
+  "service": "N/A",
+  "brand": null,
+  "createdAt": "2022-07-25T20:45:39.719Z",
+  "updatedAt": "2022-07-25T20:45:39.719Z",
+  "__v": 0
+}
